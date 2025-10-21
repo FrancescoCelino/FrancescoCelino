@@ -17,7 +17,6 @@ I'm an AI Engineer and Data Scientist specializing in **Large Language Models**,
 - **Published Research**: Co-author of a peer-reviewed paper in **epidemiology** ([link to paper]([your-paper-url](https://pubmed.ncbi.nlm.nih.gov/39965358/)))
 - **Current Role**: AI Engineer working with GenAI, LLMs, and NLP for business applications at [AlgoVerde.ai]
 - **Research Focus**: Passionate about new research in all things AI and statistics-related
-- **Freelance**: Available for LLM fine-tuning, RAG systems, and NLP consulting projects
 
 ---
 
@@ -71,17 +70,6 @@ I'm an AI Engineer and Data Scientist specializing in **Large Language Models**,
 
 ## My Blog Posts
 **WIP**
-
----
-
-## Open for Freelance Work
-
-I'm available for consulting and freelance projects in:
-- **LLM Fine-Tuning & Optimization** (Llama, Mistral, GPT-based models)
-- **RAG System Implementation** (enterprise knowledge management)
-- **NLP Pipeline Development** (sentiment analysis, NER, text classification)
-- **Research Paper Implementation** (from arXiv to production)
-- **AI Integration Consulting** (GenAI for business applications)
 
 ---
 
