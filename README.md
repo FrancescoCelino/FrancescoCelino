@@ -35,6 +35,7 @@ I'm an AI Engineer and Data Scientist specializing in **Large Language Models**,
 
 ### LLM & NLP Tools
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-blue)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge&logo=llama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
@@ -65,6 +66,9 @@ I'm an AI Engineer and Data Scientist specializing in **Large Language Models**,
 - Achieved state-of-the-art performance in various metrics compared to baseline and ensemble
 - **Tech Stack**: Python, pytorch, scikit-learn, pandas, numPy
 
+### [AI Github Digest]((https://github.com/FrancescoCelino/ai_github_digest))
+**N8n workflow for an email AI recap**
+- **Tech Stack**: n8n, Docker
 ### Web search agent for advanced Q&A
 **WIP**
 
