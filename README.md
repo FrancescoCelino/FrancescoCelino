@@ -35,7 +35,7 @@ I'm an AI Engineer and Data Scientist specializing in **Large Language Models**,
 
 ### LLM & NLP Tools
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-blue)
+![n8n](https://img.shields.io/badge/n8n-blue?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge&logo=llama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
